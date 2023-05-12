@@ -26,7 +26,13 @@ input{
 }
 #clear{
     height: 45px;
-    width: 160px;
+    width: 145px;
+    font-size: 20px;
+}
+#multiply{
+    font-size: 12px;
+}
+#backspace{
     font-size: 20px;
 }
 @media (max-width:480px){
